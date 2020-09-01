@@ -20,6 +20,7 @@
         </plugins>
     </build>
 
+    <!-- https://mvnrepository.com/artifact/junit/junit-dep -->
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
