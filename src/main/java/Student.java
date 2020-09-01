@@ -52,12 +52,4 @@ public class Student {
         }
         return sum / count;
     }
-
-    public static void main(String[] args) {
-        Student jon = new Student();
-        jon.add(98);
-        jon.add(95);
-        jon.add(96);
-        System.out.println(jon.getGradeAverage());
-    }
 }
